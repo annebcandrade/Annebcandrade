@@ -4,7 +4,7 @@ Seja bem-vindo ao meu portfólio.
 Quem sou eu? 
 Sou Desenvolvedora Front-End e Mobile. Tenho experiencia com HTML, CSS, Javasprit e Mobile Android Kotlin, frameworks, bibliotecas e banco de dados mobile. Experiencia com arquitetura de software mobile MVC, MVP, MVVM, MVI, VIPER. 
 
-Espero que goste dos meus projetos pessoais e profissionais que aumentaram meu conhecimento e experiência com a programação e o mundo da tecnologia, a qual dedico meus dias a fim de ser uma profissional cada vez melhor. Cada linha de código representa um crescimento e um novo conhecimento. 
+Espero que goste dos meus projetos pessoais e profissionais que aumentaram minha experiência com a programação e o mundo da tecnologia, a qual dedico meus dias a fim de ser uma profissional cada vez melhor. Cada linha de código representa um crescimento e um novo conhecimento. 
 Aroveite a jornada! 
 
 
