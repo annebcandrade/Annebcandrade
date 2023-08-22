@@ -2,13 +2,15 @@
 Seja bem-vindo ao meu portfólio. 
 
 Quem sou eu? 
-Sou Desenvolvedora Front-End e Mobile. Tenho experiencia com HTML, CSS, Javasprit e Mobile Android Kotlin, frameworks, bibliotecas e banco de dados mobile. Experiencia com arquitetura de software mobile MVC, MVP, MVVM, MVI, VIPER. 
+Sou Desenvolvedora Front-End e Mobile. Tenho experiencia com HTML, CSS, Javasprit, Json, API, React (Hooks, UseStates, StyledComponents).
+
+Mobile Android Kotlin, frameworks, bibliotecas e banco de dados mobile. Experiencia com arquitetura de software mobile MVC, MVP, MVVM, MVI, VIPER. 
 
 Espero que goste dos meus projetos pessoais e profissionais que aumentaram minha experiência com a programação e o mundo da tecnologia, a qual dedico meus dias a fim de ser uma profissional cada vez melhor. Cada linha de código representa um crescimento e um novo conhecimento. 
 Aroveite a jornada! 
 
 
-Linkedin: Anne Beatriz C. de Andrade
+Linkedin: https://www.linkedin.com/in/anne-beatriz-c-de-andrade-25934322a
 Email: euannebeatrizcm@gmail.com
 
 <!--
