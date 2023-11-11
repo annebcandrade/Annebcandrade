@@ -2,7 +2,7 @@
 Seja bem-vindo ao meu portfólio. 
 
 Quem sou eu? 
-Sou Desenvolvedora Front-End e Mobile. Tenho experiencia com HTML, CSS, Javasprit, Json, API, React (Hooks, UseStates, StyledComponents), Typescript, Javascript, SASS, Bootstrap, Tailwind. No back-end dos meus projetos trabalho com Node (Insomnia, Express, UUID), fazendo a integração do front com o back utilizando AXIOS e CORS. 
+Sou Desenvolvedora FullStack e Mobile. Tenho experiencia com HTML, CSS, Javasprit, Json, API, React (Hooks, UseStates, StyledComponents), Typescript, Javascript, SASS, Bootstrap, Tailwind. No back-end dos meus projetos trabalho com Node (Insomnia, Express, UUID), fazendo a integração do front com o back utilizando AXIOS e CORS. 
 
 No desenvolvimento Mobile Android trabalho com a linguagem de Kotlin, frameworks, bibliotecas e banco de dados mobile. Experiencia com arquitetura de software mobile MVC, MVP, MVVM, MVI, VIPER. 
 
